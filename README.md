@@ -1,4 +1,4 @@
-# Hello there ✌️
+## Hello there ✌️
 I'm a violinist turned software developer. Currently learning web development.
 
 [![Linkedin Badge](https://img.shields.io/badge/-antonroters-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonroters/)](https://www.linkedin.com/in/antonroters/)
@@ -7,14 +7,14 @@ I'm a violinist turned software developer. Currently learning web development.
 
 Check out my [jekyll-based GitHub Page](https://snekhome.click)
 
-💙 Personal interests: <br>
+### 💙 Personal interests:
 - Violin 🎻
 - Piano 🎹
 - Audio Production 🎧
 - Video Production 🎥
 - Software programming 💻
 
-⚡️ Tech stack: <br>
+### ⚡️ Tech stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -26,3 +26,5 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+![programming cat](https://media.tenor.com/5Lh6_-ENKZYAAAAd/dragonismgifs-dimden.gif)
