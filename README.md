@@ -17,6 +17,7 @@ I'm a violinist turned software developer. Currently learning web development.
 Check out my [jekyll-based GitHub Page](https://snekhome.click)
 </div>
 
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=toshydev&show_icons=true&theme=cobalt"
@@ -29,12 +30,14 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=toshydev&show_icons=true" />
 </picture>
 
+
 ### 💙 Personal interests:
 - Violin 🎻
 - Piano 🎹
 - Audio Production 🎧
 - Video Production 🎥
 - Software programming 💻
+
 
 <picture>
 <source 
@@ -47,6 +50,8 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
 />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshydev&show_icons=true" />
 </picture>
+
+---
 
 ### ⚡️ Technologies:
 - ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
