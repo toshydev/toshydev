@@ -17,7 +17,17 @@ I'm a violinist turned software developer. Currently learning web development.
 Check out my [jekyll-based GitHub Page](https://snekhome.click)
 </div>
 
-<img align="right" src="https://media.tenor.com/uzjlT2w2Ss0AAAAC/circuits-pcb.gif" alt="circuit" width="150">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=toshydev&show_icons=true&theme=cobalt"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=toshydev&show_icons=true&theme=swift"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=toshydev&show_icons=true" />
+</picture>
 
 ### 💙 Personal interests:
 - Violin 🎻
@@ -26,17 +36,27 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
 - Video Production 🎥
 - Software programming 💻
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toshydev&show_icons=true&theme=cobalt"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toshydev&show_icons=true&theme=swift"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshydev&show_icons=true" />
+</picture>
+
 ### ⚡️ Technologies:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 - ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
----
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshydev&theme=blue-green
-)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toshydev&theme=blue-green)
+
+
 ![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
