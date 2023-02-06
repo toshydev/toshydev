@@ -1,4 +1,4 @@
-## Hello there ✌️
+# Hello there ✌️
 I'm a violinist turned software developer. Currently learning web development.
 
 [![Linkedin Badge](https://img.shields.io/badge/-antonroters-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonroters/)](https://www.linkedin.com/in/antonroters/)
