@@ -38,6 +38,7 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
 - Video Production 🎥
 - Software programming 💻
 
+---
 
 <picture>
 <source 
@@ -50,8 +51,6 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
 />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshydev&show_icons=true" />
 </picture>
-
-<div></div>
 
 ### ⚡️ Technologies:
 - ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
