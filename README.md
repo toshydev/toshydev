@@ -4,7 +4,8 @@ I'm a violinist turned software developer. Currently learning web development.
   
 ![GitHub Follow](https://img.shields.io/github/followers/toshydev.svg?style=social&label=Follow&maxAge=2592000)
 ![Twitter Follow](https://img.shields.io/twitter/follow/toshymoshy?style=social)
----
+<br>
+<br>
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/toshymoshy)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/antonroters/)
@@ -13,10 +14,9 @@ I'm a violinist turned software developer. Currently learning web development.
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/antonroters)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/toshymoshy)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/toshymoshy)
-  
-Check out my [jekyll-based GitHub Page](https://snekhome.click)
 </div>
 
+<br>
 
 <picture>
 <source 
@@ -38,7 +38,7 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
 - Video Production 🎥
 - Software programming 💻
 
----
+<br>
 
 <picture>
 <source 
@@ -62,5 +62,8 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
 - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 - ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
+<div align="center">
+<img align="center" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif?raw=true" alt="octocat">
 
 ![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+</div>
