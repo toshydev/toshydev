@@ -1,11 +1,23 @@
-# Hello there ✌️
+<h1 align="center">Hello there ✌️</h1>
+<div align="center">
 I'm a violinist turned software developer. Currently learning web development.
-
-[![Linkedin Badge](https://img.shields.io/badge/-antonroters-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonroters/)](https://www.linkedin.com/in/antonroters/)
-[![Instagram Badge](https://img.shields.io/badge/-toshymoshy-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/toshymoshy/)](https://instagram.com/toshymoshy)
-[![Medium Badge](https://img.shields.io/badge/-@antonroters-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@antonroters/)](https://medium.com/@antonroters)
-
+  
+![GitHub Follow](https://img.shields.io/github/followers/toshydev.svg?style=social&label=Follow&maxAge=2592000)
+![Twitter Follow](https://img.shields.io/twitter/follow/toshymoshy?style=social)
+---
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/toshymoshy)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/antonroters/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+)](https://twitter.com/toshymoshy)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/antonroters)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/toshymoshy)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/toshymoshy)
+  
 Check out my [jekyll-based GitHub Page](https://snekhome.click)
+</div>
+
+<img align="right" src="https://media.tenor.com/uzjlT2w2Ss0AAAAC/circuits-pcb.gif" alt="circuit" width="150">
 
 ### 💙 Personal interests:
 - Violin 🎻
@@ -14,17 +26,17 @@ Check out my [jekyll-based GitHub Page](https://snekhome.click)
 - Video Production 🎥
 - Software programming 💻
 
-### ⚡️ Tech stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-![programming cat](https://media.tenor.com/5Lh6_-ENKZYAAAAd/dragonismgifs-dimden.gif)
+### ⚡️ Technologies:
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+---
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toshydev&theme=blue-green
+)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toshydev&theme=blue-green)
+![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
