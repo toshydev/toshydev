@@ -65,5 +65,4 @@ I'm a violinist turned software developer. Currently learning web development.
 <div align="center">
 <img align="center" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif?raw=true" alt="octocat">
 
-![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 </div>
