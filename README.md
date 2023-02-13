@@ -65,4 +65,6 @@ I'm a violinist turned software developer. Currently learning web development.
 <div align="center">
 <img align="center" src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif?raw=true" alt="octocat">
 
+  ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=toshydev&repo=toshydev&countColor=%237B1E7A)
+  
 </div>
