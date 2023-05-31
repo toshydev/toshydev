@@ -1,6 +1,6 @@
 <h1 align="center">Hello there ✌️</h1>
 <div align="center">
-I'm a violinist turned software developer. Currently learning web development.
+I'm a violinist turned software developer. Currently learning Java development.
   
 ![GitHub Follow](https://img.shields.io/github/followers/toshydev.svg?style=social&label=Follow&maxAge=2592000)
 ![Twitter Follow](https://img.shields.io/twitter/follow/toshymoshy?style=social)
