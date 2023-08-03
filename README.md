@@ -2,8 +2,8 @@
 <div align="center">
 I'm a violinist turned software developer. Currently learning Java development.
   
-![GitHub Follow](https://img.shields.io/github/followers/toshydev.svg?style=social&label=Follow&maxAge=2592000)
-![Twitter Follow](https://img.shields.io/twitter/follow/toshymoshy?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/toshydev?style=for-the-badge&logo=github&logoColor=%2301fae6&labelColor=%231e1e1e&color=%23ff004f)
+
 <br>
 <br>
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/toshymoshy)
