@@ -1,8 +1,8 @@
+![GitHub User's stars](https://img.shields.io/github/stars/toshydev?style=for-the-badge&logo=github&logoColor=%2301fae6&labelColor=%231e1e1e&color=%23ff004f)
+
 <h1 align="center">Hello there ✌️</h1>
 <div align="center">
 I'm a violinist turned software developer. Currently learning Java development.
-  
-![GitHub User's stars](https://img.shields.io/github/stars/toshydev?style=for-the-badge&logo=github&logoColor=%2301fae6&labelColor=%231e1e1e&color=%23ff004f)
 
 <br>
 <br>
