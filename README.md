@@ -1,11 +1,14 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/toshydev?style=for-the-badge&logo=github&logoColor=%2301fae6&labelColor=%231e1e1e&color=%23ff004f)
 
+
 <h1 align="center">Hello there ✌️</h1>
 <div align="center">
 I'm a violinist turned software developer. Currently learning Java development.
 
+
 <br>
 <br>
+
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/toshymoshy)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/toshymoshy)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
