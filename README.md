@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello there ✌️</h1>
 <div align="center">
-I'm a violinist turned software developer. Currently learning Java development.
+From violin to visual studio code.
 
 
 <br>
