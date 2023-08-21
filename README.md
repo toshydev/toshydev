@@ -35,11 +35,11 @@ From violin to visual studio code.
 
 
 ### 💙 Personal interests:
+- Coding 💻
 - Violin 🎻
 - Piano 🎹
 - Audio Production 🎧
 - Video Production 🎥
-- Software programming 💻
 
 <br>
 
